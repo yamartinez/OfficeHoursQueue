@@ -1,0 +1,25 @@
+{
+  "name": "officehoursqueue",
+  "version": "0.0.1",
+  "description": "Office Hours Queue for classes at UVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamartinez/OfficeHoursQueue.git"
+  },
+  "keywords": [
+    "OH",
+    "OfficeHours",
+    "Queue",
+    "GetHelp"
+  ],
+  "author": "Yudel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamartinez/OfficeHoursQueue/issues"
+  },
+  "homepage": "https://github.com/yamartinez/OfficeHoursQueue#readme"
+}
